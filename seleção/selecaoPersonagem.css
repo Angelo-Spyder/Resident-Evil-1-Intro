@@ -16,3 +16,14 @@ body{
     justify-content: center;
     gap: 30px;
 }
+.botao-personagem{
+    border: none;
+    color: white;
+    background: none;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.botao-personagem:hover{
+    background: linear-gradient(90deg, #ffffff7a, #ffffff00);
+    cursor: pointer;
+}
