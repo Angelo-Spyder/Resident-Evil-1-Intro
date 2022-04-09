@@ -8,3 +8,11 @@ body{
 .imagem-logo{
     width: 100%;
 }
+.conteudo-selecao{
+    margin: 80px auto;
+    width: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+}
