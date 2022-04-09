@@ -1,0 +1,25 @@
+body{
+    background: black;
+}
+.cabecalho{
+    width: 400px;
+    margin: 0 auto;
+}
+.imagem-logo{
+    width: 100%;
+}
+.conteudo-principal{
+    margin: 80px auto;
+    width: 60px;
+}
+#iniciar{
+    border: none;
+    color: white;
+    background: none;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+#iniciar:hover{
+    background: linear-gradient(90deg, #ffffff7a, #ffffff00);
+    cursor: pointer;
+}
