@@ -1,0 +1,14 @@
+body{
+    background: black;
+}
+.cabecalho{
+    width: 400px;
+    margin: 0 auto;
+}
+.imagem-logo{
+    width: 100%;
+}
+.conteudo-principal{
+    margin: 80px auto;
+    width: 60px;
+}
